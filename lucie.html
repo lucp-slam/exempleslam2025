@@ -22,7 +22,7 @@
 <a href="about.html">About</a><br>
 <a href="contact.html">Contact</a><br>
 <a href="cameron.html">Cameron</a><br>
-<a href="leof.html">Léo F</a><br>
+<a href="leof.html">LEO F</a><br>
 <a href="ethane.html">Ethan E</a><br>
 <a href="ethanf.html">Ethan F</a><br>
 <a href="guillaume.html">Guillaume</a><br>
