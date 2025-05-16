@@ -63,5 +63,7 @@ Afin de mettre en place cette nouvelle version, voici la liste des tâches à r�
   * [Tips : Concepts du contrôle de version avec Git - YouTube](https://www.youtube.com/watch?v=Uszj_k0DGsg),
   * [Petits cours avancés sur Git - YouTube](https://www.youtube.com/playlist?list=PLyCj4RCToz5DRDx3sJ4iW9i8D2G8OdHYH),
   * [Tips : Comment défaire des bêtises - YouTube](https://www.youtube.com/watch?v=lX9hsdsAeTk),
+  * [Tips : 13 Techniques avancées et raccourcis](https://www.youtube.com/watch?v=ecK3EnyGD8o),
+  * [ARRÊTE de fuir le conflit ! - YouTube](https://www.youtube.com/watch?v=xmxg2UVPtVo&t=2124s&pp=ygUgYXJyZXRlIGRlIGZ1aXIgbGUgY29uZmxpdCAoZ2l0KSo%3D)
 * Tools
   * [Conflicts tools](https://blog.xoxzo.com/2019/03/29/my-favorite-tools-to-resolve-git-merge-conflicts/),
